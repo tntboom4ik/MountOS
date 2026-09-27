@@ -1,0 +1,30 @@
+# Данные пользователя MountOS
+system/storage/
+system/logs/
+system/user_apps/
+system/user_data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller
+*.spec
+build/
+dist/
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
